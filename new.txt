@@ -1,2 +1,14 @@
-What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+git init
+git config --global user.name ""
+git clone 
+git add .
+git commit -m ""
+git status
+git checkout -b change_branch
+git checkout
+git branch
+git push
+git pull
+git merge 
+git stash
+git stash apply
