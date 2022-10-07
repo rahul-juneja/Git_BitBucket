@@ -1,0 +1,54 @@
+Terms:
+Clone 
+Remote Location - Any location that is far away and can be controlled from anywhere
+Repository - Code which is stored in a type of folder
+Command - "git clone"
+
+State - 
+If we clone it is in unCommited State
+
+Before git commit we have to run 
+Command - "git add" - for single file
+& "git add ." - for all the files
+
+Command - "git commit"
+Commit changes in the git with the message
+
+Command - "git push"
+Push code to the remote location
+
+Command - "git pull"
+Pull code from git to get the code already saved
+
+Command - "git merge"
+Merge all the code from two or more users
+
+Conflict - error came while merging two files
+Files can't be merged if conflict is not resolved
+
+Command - "git stash" (unCommited State)
+Save the changes in another file 
+
+Command - "git stash apply"
+It will apply the changes to pull file
+
+Branched
+-Main/Master
+
+
+Software - SourceTree
+
+
+Create Branch 
+Command - "git checkout -b branchName"
+Shift to other Branch
+Command - "git checkout branchName"
+
+Command - "git status"
+
+Command - "git branch"
+For veiwing all the branches creeated
+
+
+
+
