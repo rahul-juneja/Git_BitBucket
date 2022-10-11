@@ -52,5 +52,9 @@ For veiwing all the branches creeated
 
 git switch Same as git checkout
 git reset
+<<<<<<< HEAD
 git rebase 
 
+=======
+git rebase
+>>>>>>> 003e53687cc20972a9a92aae830b235175a45893

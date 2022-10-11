@@ -11,7 +11,11 @@ git push
 git pull
 git merge 
 git stash
+<<<<<<< HEAD
 git stash apply
 git switch
 git reset
 git rebase
+=======
+git stash apply
+>>>>>>> 003e53687cc20972a9a92aae830b235175a45893
