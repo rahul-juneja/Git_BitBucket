@@ -1,0 +1,17 @@
+git init
+git config --global user.name ""
+git clone 
+git add .
+git commit -m ""
+git status
+git checkout -b change_branch
+git checkout
+git branch
+git push
+git pull
+git merge 
+git stash
+git stash apply
+git switch
+git reset
+git rebase
