@@ -50,5 +50,8 @@ Command - "git branch"
 For veiwing all the branches creeated
 
 
-
+git switch Same as git checkout
+git reset
+git rebase
+git 
 
